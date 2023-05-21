@@ -1,0 +1,12 @@
+name = "react_gleam_example"
+version = "0.1.0"
+description = "A Gleam project"
+
+target = "javascript"
+
+[dependencies]
+gleam_stdlib = "~> 0.28"
+react_gleam = "~> 0.5"
+
+[dev-dependencies]
+gleeunit = "~> 0.10"
